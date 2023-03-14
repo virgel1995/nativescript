@@ -1,3 +1,15 @@
-# nativescript
+# nativescript app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nativescript-stackblitz-templates-fiyg7m)
+
+
+## setup on your machine 
+```bash
+#install nativescript 
+npm install -g nativescript
+#install dependencies 
+npm install 
+# setup nativescript 
+setup-nativescript-stackblitz
+# run development servr
+ns preview
+```
